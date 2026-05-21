@@ -1,0 +1,1 @@
+Refactoring from https://github.com/vdurmont/emoji-java
