@@ -1,493 +1,1403 @@
 [
     {
-        "emojiChar": "😀",
-        "aliases": ["grinning_face"],
-        "emoji": "\uD83D\uDE00",
-        "description": "grinning face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-smiling"
-        ]
+        "emojiChar": "💯",
+        "aliases": ["hundred_points"],
+        "emoji": "\uD83D\uDCAF",
+        "description": "hundred points",
+        "tags": ["smileys_and_people"]
     },
     {
-        "emojiChar": "😃",
-        "aliases": ["grinning_face_with_big_eyes"],
-        "emoji": "\uD83D\uDE03",
-        "description": "grinning face with big eyes",
-        "tags": [
-            "smileys_&_emotion",
-            "face-smiling"
-        ]
+        "emojiChar": "💭",
+        "aliases": ["thought_balloon"],
+        "emoji": "\uD83D\uDCAD",
+        "description": "thought balloon",
+        "tags": ["smileys_and_people"]
     },
     {
-        "emojiChar": "😄",
-        "aliases": ["grinning_face_with_smiling_eyes"],
-        "emoji": "\uD83D\uDE04",
-        "description": "grinning face with smiling eyes",
-        "tags": [
-            "smileys_&_emotion",
-            "face-smiling"
-        ]
+        "emojiChar": "💨",
+        "aliases": ["dashing_away"],
+        "emoji": "\uD83D\uDCA8",
+        "description": "dashing away",
+        "tags": ["smileys_and_people"]
     },
     {
-        "emojiChar": "😁",
-        "aliases": ["beaming_face_with_smiling_eyes"],
-        "emoji": "\uD83D\uDE01",
-        "description": "beaming face with smiling eyes",
-        "tags": [
-            "smileys_&_emotion",
-            "face-smiling"
-        ]
+        "emojiChar": "💦",
+        "aliases": ["sweat_droplets"],
+        "emoji": "\uD83D\uDCA6",
+        "description": "sweat droplets",
+        "tags": ["smileys_and_people"]
     },
     {
-        "emojiChar": "😆",
-        "aliases": ["grinning_squinting_face"],
-        "emoji": "\uD83D\uDE06",
-        "description": "grinning squinting face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-smiling"
-        ]
+        "emojiChar": "💥",
+        "aliases": ["collision"],
+        "emoji": "\uD83D\uDCA5",
+        "description": "collision",
+        "tags": ["smileys_and_people"]
     },
     {
-        "emojiChar": "😅",
-        "aliases": ["grinning_face_with_sweat"],
-        "emoji": "\uD83D\uDE05",
-        "description": "grinning face with sweat",
-        "tags": [
-            "smileys_&_emotion",
-            "face-smiling"
-        ]
+        "emojiChar": "💬",
+        "aliases": ["speech_balloon"],
+        "emoji": "\uD83D\uDCAC",
+        "description": "speech balloon",
+        "tags": ["smileys_and_people"]
     },
     {
-        "emojiChar": "🤣",
-        "aliases": ["rolling_on_the_floor_laughing"],
-        "emoji": "\uD83E\uDD23",
-        "description": "rolling on the floor laughing",
-        "tags": [
-            "smileys_&_emotion",
-            "face-smiling"
-        ]
+        "emojiChar": "💫",
+        "aliases": ["dizzy"],
+        "emoji": "\uD83D\uDCAB",
+        "description": "dizzy",
+        "tags": ["smileys_and_people"]
     },
     {
-        "emojiChar": "😂",
-        "aliases": ["face_with_tears_of_joy"],
-        "emoji": "\uD83D\uDE02",
-        "description": "face with tears of joy",
-        "tags": [
-            "smileys_&_emotion",
-            "face-smiling"
-        ]
+        "emojiChar": "💩",
+        "aliases": ["pile_of_poo"],
+        "emoji": "\uD83D\uDCA9",
+        "description": "pile of poo",
+        "tags": ["smileys_and_people"]
     },
     {
-        "emojiChar": "🙂",
-        "aliases": ["slightly_smiling_face"],
-        "emoji": "\uD83D\uDE42",
-        "description": "slightly smiling face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-smiling"
-        ]
+        "emojiChar": "💟",
+        "aliases": ["heart_decoration"],
+        "emoji": "\uD83D\uDC9F",
+        "description": "heart decoration",
+        "tags": ["smileys_and_people"]
     },
     {
-        "emojiChar": "🙃",
-        "aliases": ["upside-down_face"],
-        "emoji": "\uD83D\uDE43",
-        "description": "upside-down face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-smiling"
-        ]
+        "emojiChar": "💞",
+        "aliases": ["revolving_hearts"],
+        "emoji": "\uD83D\uDC9E",
+        "description": "revolving hearts",
+        "tags": ["smileys_and_people"]
     },
     {
-        "emojiChar": "🫠",
-        "aliases": ["melting_face"],
-        "emoji": "\uD83E\uDEE0",
-        "description": "melting face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-smiling"
-        ]
+        "emojiChar": "💝",
+        "aliases": ["heart_with_ribbon"],
+        "emoji": "\uD83D\uDC9D",
+        "description": "heart with ribbon",
+        "tags": ["smileys_and_people"]
     },
     {
-        "emojiChar": "😉",
-        "aliases": ["winking_face"],
-        "emoji": "\uD83D\uDE09",
-        "description": "winking face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-smiling"
-        ]
+        "emojiChar": "💤",
+        "aliases": ["ZZZ"],
+        "emoji": "\uD83D\uDCA4",
+        "description": "ZZZ",
+        "tags": ["smileys_and_people"]
     },
     {
-        "emojiChar": "😊",
-        "aliases": ["smiling_face_with_smiling_eyes"],
-        "emoji": "\uD83D\uDE0A",
-        "description": "smiling face with smiling eyes",
-        "tags": [
-            "smileys_&_emotion",
-            "face-smiling"
-        ]
+        "emojiChar": "☝",
+        "aliases": ["index_pointing_up"],
+        "emoji": "\u261D",
+        "description": "index pointing up",
+        "tags": ["smileys_and_people"]
     },
     {
-        "emojiChar": "😇",
-        "aliases": ["smiling_face_with_halo"],
-        "emoji": "\uD83D\uDE07",
-        "description": "smiling face with halo",
-        "tags": [
-            "smileys_&_emotion",
-            "face-smiling"
-        ]
+        "emojiChar": "💢",
+        "aliases": ["anger_symbol"],
+        "emoji": "\uD83D\uDCA2",
+        "description": "anger symbol",
+        "tags": ["smileys_and_people"]
     },
     {
-        "emojiChar": "🥰",
-        "aliases": ["smiling_face_with_hearts"],
-        "emoji": "\uD83E\uDD70",
-        "description": "smiling face with hearts",
-        "tags": [
-            "smileys_&_emotion",
-            "face-affection"
-        ]
+        "emojiChar": "☠",
+        "aliases": ["skull_and_crossbones"],
+        "emoji": "\u2620",
+        "description": "skull and crossbones",
+        "tags": ["smileys_and_people"]
     },
     {
-        "emojiChar": "😍",
-        "aliases": ["smiling_face_with_heart-eyes"],
-        "emoji": "\uD83D\uDE0D",
-        "description": "smiling face with heart-eyes",
-        "tags": [
-            "smileys_&_emotion",
-            "face-affection"
-        ]
-    },
-    {
-        "emojiChar": "🤩",
-        "aliases": ["star-struck"],
-        "emoji": "\uD83E\uDD29",
-        "description": "star-struck",
-        "tags": [
-            "smileys_&_emotion",
-            "face-affection"
-        ]
-    },
-    {
-        "emojiChar": "😘",
-        "aliases": ["face_blowing_a_kiss"],
-        "emoji": "\uD83D\uDE18",
-        "description": "face blowing a kiss",
-        "tags": [
-            "smileys_&_emotion",
-            "face-affection"
-        ]
-    },
-    {
-        "emojiChar": "😗",
-        "aliases": ["kissing_face"],
-        "emoji": "\uD83D\uDE17",
-        "description": "kissing face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-affection"
-        ]
+        "emojiChar": "☹",
+        "aliases": ["frowning_face"],
+        "emoji": "\u2639",
+        "description": "frowning face",
+        "tags": ["smileys_and_people"]
     },
     {
         "emojiChar": "☺",
         "aliases": ["smiling_face"],
         "emoji": "\u263A",
         "description": "smiling face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-affection"
-        ]
+        "tags": ["smileys_and_people"]
     },
     {
-        "emojiChar": "😚",
-        "aliases": ["kissing_face_with_closed_eyes"],
-        "emoji": "\uD83D\uDE1A",
-        "description": "kissing face with closed eyes",
-        "tags": [
-            "smileys_&_emotion",
-            "face-affection"
-        ]
+        "emojiChar": "🫶",
+        "aliases": ["heart_hands"],
+        "emoji": "\uD83E\uDEF6",
+        "description": "heart hands",
+        "tags": ["smileys_and_people"]
     },
     {
-        "emojiChar": "😙",
-        "aliases": ["kissing_face_with_smiling_eyes"],
-        "emoji": "\uD83D\uDE19",
-        "description": "kissing face with smiling eyes",
-        "tags": [
-            "smileys_&_emotion",
-            "face-affection"
-        ]
+        "emojiChar": "🫱",
+        "aliases": ["rightwards_hand"],
+        "emoji": "\uD83E\uDEF1",
+        "description": "rightwards hand",
+        "tags": ["smileys_and_people"]
     },
     {
-        "emojiChar": "🥲",
-        "aliases": ["smiling_face_with_tear"],
-        "emoji": "\uD83E\uDD72",
-        "description": "smiling face with tear",
-        "tags": [
-            "smileys_&_emotion",
-            "face-affection"
-        ]
+        "emojiChar": "🫰",
+        "aliases": ["hand_with_index_finger_and_thumb_crossed"],
+        "emoji": "\uD83E\uDEF0",
+        "description": "hand with index finger and thumb crossed",
+        "tags": ["smileys_and_people"]
     },
     {
-        "emojiChar": "😋",
-        "aliases": ["face_savoring_food"],
-        "emoji": "\uD83D\uDE0B",
-        "description": "face savoring food",
-        "tags": [
-            "smileys_&_emotion",
-            "face-tongue"
-        ]
+        "emojiChar": "🫵",
+        "aliases": ["index_pointing_at_the_viewer"],
+        "emoji": "\uD83E\uDEF5",
+        "description": "index pointing at the viewer",
+        "tags": ["smileys_and_people"]
     },
     {
-        "emojiChar": "😛",
-        "aliases": ["face_with_tongue"],
-        "emoji": "\uD83D\uDE1B",
-        "description": "face with tongue",
-        "tags": [
-            "smileys_&_emotion",
-            "face-tongue"
-        ]
+        "emojiChar": "🫴",
+        "aliases": ["⊛_rightwards_pushing_hand"],
+        "emoji": "\uD83E\uDEF4",
+        "description": "⊛ rightwards pushing hand",
+        "tags": ["smileys_and_people"]
     },
     {
-        "emojiChar": "😜",
-        "aliases": ["winking_face_with_tongue"],
-        "emoji": "\uD83D\uDE1C",
-        "description": "winking face with tongue",
-        "tags": [
-            "smileys_&_emotion",
-            "face-tongue"
-        ]
+        "emojiChar": "🫳",
+        "aliases": ["palm_down_hand"],
+        "emoji": "\uD83E\uDEF3",
+        "description": "palm down hand",
+        "tags": ["smileys_and_people"]
     },
     {
-        "emojiChar": "🤪",
-        "aliases": ["zany_face"],
-        "emoji": "\uD83E\uDD2A",
-        "description": "zany face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-tongue"
-        ]
-    },
-    {
-        "emojiChar": "😝",
-        "aliases": ["squinting_face_with_tongue"],
-        "emoji": "\uD83D\uDE1D",
-        "description": "squinting face with tongue",
-        "tags": [
-            "smileys_&_emotion",
-            "face-tongue"
-        ]
-    },
-    {
-        "emojiChar": "🤑",
-        "aliases": ["money-mouth_face"],
-        "emoji": "\uD83E\uDD11",
-        "description": "money-mouth face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-tongue"
-        ]
-    },
-    {
-        "emojiChar": "🤗",
-        "aliases": ["smiling_face_with_open_hands"],
-        "emoji": "\uD83E\uDD17",
-        "description": "smiling face with open hands",
-        "tags": [
-            "smileys_&_emotion",
-            "face-hand"
-        ]
-    },
-    {
-        "emojiChar": "🤭",
-        "aliases": ["face_with_hand_over_mouth"],
-        "emoji": "\uD83E\uDD2D",
-        "description": "face with hand over mouth",
-        "tags": [
-            "smileys_&_emotion",
-            "face-hand"
-        ]
-    },
-    {
-        "emojiChar": "🫢",
-        "aliases": ["face_with_open_eyes_and_hand_over_mouth"],
-        "emoji": "\uD83E\uDEE2",
-        "description": "face with open eyes and hand over mouth",
-        "tags": [
-            "smileys_&_emotion",
-            "face-hand"
-        ]
-    },
-    {
-        "emojiChar": "🫣",
-        "aliases": ["face_with_peeking_eye"],
-        "emoji": "\uD83E\uDEE3",
-        "description": "face with peeking eye",
-        "tags": [
-            "smileys_&_emotion",
-            "face-hand"
-        ]
-    },
-    {
-        "emojiChar": "🤫",
-        "aliases": ["shushing_face"],
-        "emoji": "\uD83E\uDD2B",
-        "description": "shushing face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-hand"
-        ]
-    },
-    {
-        "emojiChar": "🤔",
-        "aliases": ["thinking_face"],
-        "emoji": "\uD83E\uDD14",
-        "description": "thinking face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-hand"
-        ]
+        "emojiChar": "🫲",
+        "aliases": ["leftwards_hand"],
+        "emoji": "\uD83E\uDEF2",
+        "description": "leftwards hand",
+        "tags": ["smileys_and_people"]
     },
     {
         "emojiChar": "🫡",
         "aliases": ["saluting_face"],
         "emoji": "\uD83E\uDEE1",
         "description": "saluting face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-hand"
-        ]
+        "tags": ["smileys_and_people"]
     },
     {
-        "emojiChar": "🤐",
-        "aliases": ["zipper-mouth_face"],
-        "emoji": "\uD83E\uDD10",
-        "description": "zipper-mouth face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-neutral-skeptical"
-        ]
-    },
-    {
-        "emojiChar": "🤨",
-        "aliases": ["face_with_raised_eyebrow"],
-        "emoji": "\uD83E\uDD28",
-        "description": "face with raised eyebrow",
-        "tags": [
-            "smileys_&_emotion",
-            "face-neutral-skeptical"
-        ]
-    },
-    {
-        "emojiChar": "😐",
-        "aliases": ["neutral_face"],
-        "emoji": "\uD83D\uDE10",
-        "description": "neutral face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-neutral-skeptical"
-        ]
-    },
-    {
-        "emojiChar": "😑",
-        "aliases": ["expressionless_face"],
-        "emoji": "\uD83D\uDE11",
-        "description": "expressionless face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-neutral-skeptical"
-        ]
-    },
-    {
-        "emojiChar": "😶",
-        "aliases": ["face_without_mouth"],
-        "emoji": "\uD83D\uDE36",
-        "description": "face without mouth",
-        "tags": [
-            "smileys_&_emotion",
-            "face-neutral-skeptical"
-        ]
+        "emojiChar": "🫠",
+        "aliases": ["melting_face"],
+        "emoji": "\uD83E\uDEE0",
+        "description": "melting face",
+        "tags": ["smileys_and_people"]
     },
     {
         "emojiChar": "🫥",
         "aliases": ["dotted_line_face"],
         "emoji": "\uD83E\uDEE5",
         "description": "dotted line face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-neutral-skeptical"
-        ]
+        "tags": ["smileys_and_people"]
     },
     {
-        "emojiChar": "😶\u200d🌫️",
-        "aliases": ["face_in_clouds"],
-        "emoji": "\uD83D\uDE36\u200D\uD83C\uDF2B\uFE0F",
-        "description": "face in clouds",
-        "tags": [
-            "smileys_&_emotion",
-            "face-neutral-skeptical"
-        ]
+        "emojiChar": "🫤",
+        "aliases": ["face_with_diagonal_mouth"],
+        "emoji": "\uD83E\uDEE4",
+        "description": "face with diagonal mouth",
+        "tags": ["smileys_and_people"]
     },
     {
-        "emojiChar": "😏",
-        "aliases": ["smirking_face"],
-        "emoji": "\uD83D\uDE0F",
-        "description": "smirking face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-neutral-skeptical"
-        ]
+        "emojiChar": "🫣",
+        "aliases": ["face_with_peeking_eye"],
+        "emoji": "\uD83E\uDEE3",
+        "description": "face with peeking eye",
+        "tags": ["smileys_and_people"]
     },
     {
-        "emojiChar": "😒",
-        "aliases": ["unamused_face"],
-        "emoji": "\uD83D\uDE12",
-        "description": "unamused face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-neutral-skeptical"
-        ]
+        "emojiChar": "🫢",
+        "aliases": ["face_with_open_eyes_and_hand_over_mouth"],
+        "emoji": "\uD83E\uDEE2",
+        "description": "face with open eyes and hand over mouth",
+        "tags": ["smileys_and_people"]
     },
     {
-        "emojiChar": "🙄",
-        "aliases": ["face_with_rolling_eyes"],
-        "emoji": "\uD83D\uDE44",
-        "description": "face with rolling eyes",
-        "tags": [
-            "smileys_&_emotion",
-            "face-neutral-skeptical"
-        ]
+        "emojiChar": "🤙",
+        "aliases": ["call_me_hand"],
+        "emoji": "\uD83E\uDD19",
+        "description": "call me hand",
+        "tags": ["smileys_and_people"]
     },
     {
-        "emojiChar": "😬",
-        "aliases": ["grimacing_face"],
-        "emoji": "\uD83D\uDE2C",
-        "description": "grimacing face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-neutral-skeptical"
-        ]
+        "emojiChar": "🤘",
+        "aliases": ["sign_of_the_horns"],
+        "emoji": "\uD83E\uDD18",
+        "description": "sign of the horns",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🤗",
+        "aliases": ["smiling_face_with_open_hands"],
+        "emoji": "\uD83E\uDD17",
+        "description": "smiling face with open hands",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🤖",
+        "aliases": ["robot"],
+        "emoji": "\uD83E\uDD16",
+        "description": "robot",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🤝",
+        "aliases": ["handshake"],
+        "emoji": "\uD83E\uDD1D",
+        "description": "handshake",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😵\u200d💫",
+        "aliases": ["face_with_spiral_eyes"],
+        "emoji": "\uD83D\uDE35\u200D\uD83D\uDCAB",
+        "description": "face with spiral eyes",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🤜",
+        "aliases": ["right_facing_fist"],
+        "emoji": "\uD83E\uDD1C",
+        "description": "right-facing fist",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🤛",
+        "aliases": ["left_facing_fist"],
+        "emoji": "\uD83E\uDD1B",
+        "description": "left-facing fist",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🤚",
+        "aliases": ["raised_back_of_hand"],
+        "emoji": "\uD83E\uDD1A",
+        "description": "raised back of hand",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🤑",
+        "aliases": ["money_mouth_face"],
+        "emoji": "\uD83E\uDD11",
+        "description": "money-mouth face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🤐",
+        "aliases": ["zipper_mouth_face"],
+        "emoji": "\uD83E\uDD10",
+        "description": "zipper-mouth face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🤏",
+        "aliases": ["pinching_hand"],
+        "emoji": "\uD83E\uDD0F",
+        "description": "pinching hand",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🤎",
+        "aliases": ["brown_heart"],
+        "emoji": "\uD83E\uDD0E",
+        "description": "brown heart",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🤕",
+        "aliases": ["face_with_head_bandage"],
+        "emoji": "\uD83E\uDD15",
+        "description": "face with head-bandage",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🤔",
+        "aliases": ["thinking_face"],
+        "emoji": "\uD83E\uDD14",
+        "description": "thinking face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🤓",
+        "aliases": ["nerd_face"],
+        "emoji": "\uD83E\uDD13",
+        "description": "nerd face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🤒",
+        "aliases": ["face_with_thermometer"],
+        "emoji": "\uD83E\uDD12",
+        "description": "face with thermometer",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🤍",
+        "aliases": ["white_heart"],
+        "emoji": "\uD83E\uDD0D",
+        "description": "white heart",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🤌",
+        "aliases": ["pinched_fingers"],
+        "emoji": "\uD83E\uDD0C",
+        "description": "pinched fingers",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "❤️\u200d🩹",
+        "aliases": ["mending_heart"],
+        "emoji": "\u2764\uFE0F\u200D\uD83E\uDE79",
+        "description": "mending heart",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🤯",
+        "aliases": ["exploding_head"],
+        "emoji": "\uD83E\uDD2F",
+        "description": "exploding head",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🤮",
+        "aliases": ["face_vomiting"],
+        "emoji": "\uD83E\uDD2E",
+        "description": "face vomiting",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🤲",
+        "aliases": ["palms_up_together"],
+        "emoji": "\uD83E\uDD32",
+        "description": "palms up together",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🤩",
+        "aliases": ["star_struck"],
+        "emoji": "\uD83E\uDD29",
+        "description": "star-struck",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🤨",
+        "aliases": ["face_with_raised_eyebrow"],
+        "emoji": "\uD83E\uDD28",
+        "description": "face with raised eyebrow",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🤧",
+        "aliases": ["sneezing_face"],
+        "emoji": "\uD83E\uDD27",
+        "description": "sneezing face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🤭",
+        "aliases": ["face_with_hand_over_mouth"],
+        "emoji": "\uD83E\uDD2D",
+        "description": "face with hand over mouth",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🤬",
+        "aliases": ["face_with_symbols_on_mouth"],
+        "emoji": "\uD83E\uDD2C",
+        "description": "face with symbols on mouth",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🤫",
+        "aliases": ["shushing_face"],
+        "emoji": "\uD83E\uDD2B",
+        "description": "shushing face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🤪",
+        "aliases": ["zany_face"],
+        "emoji": "\uD83E\uDD2A",
+        "description": "zany face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🤡",
+        "aliases": ["clown_face"],
+        "emoji": "\uD83E\uDD21",
+        "description": "clown face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🤠",
+        "aliases": ["cowboy_hat_face"],
+        "emoji": "\uD83E\uDD20",
+        "description": "cowboy hat face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🤟",
+        "aliases": ["love_you_gesture"],
+        "emoji": "\uD83E\uDD1F",
+        "description": "love-you gesture",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🤞",
+        "aliases": ["crossed_fingers"],
+        "emoji": "\uD83E\uDD1E",
+        "description": "crossed fingers",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🤥",
+        "aliases": ["⊛_shaking_face"],
+        "emoji": "\uD83E\uDD25",
+        "description": "⊛ shaking face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🤤",
+        "aliases": ["drooling_face"],
+        "emoji": "\uD83E\uDD24",
+        "description": "drooling face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🤣",
+        "aliases": ["rolling_on_the_floor_laughing"],
+        "emoji": "\uD83E\uDD23",
+        "description": "rolling on the floor laughing",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🤢",
+        "aliases": ["nauseated_face"],
+        "emoji": "\uD83E\uDD22",
+        "description": "nauseated face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🕳",
+        "aliases": ["hole"],
+        "emoji": "\uD83D\uDD73",
+        "description": "hole",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🥹",
+        "aliases": ["face_holding_back_tears"],
+        "emoji": "\uD83E\uDD79",
+        "description": "face holding back tears",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🥸",
+        "aliases": ["disguised_face"],
+        "emoji": "\uD83E\uDD78",
+        "description": "disguised face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🖖",
+        "aliases": ["vulcan_salute"],
+        "emoji": "\uD83D\uDD96",
+        "description": "vulcan salute",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🥶",
+        "aliases": ["cold_face"],
+        "emoji": "\uD83E\uDD76",
+        "description": "cold face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🖕",
+        "aliases": ["middle_finger"],
+        "emoji": "\uD83D\uDD95",
+        "description": "middle finger",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🥺",
+        "aliases": ["pleading_face"],
+        "emoji": "\uD83E\uDD7A",
+        "description": "pleading face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🥱",
+        "aliases": ["yawning_face"],
+        "emoji": "\uD83E\uDD71",
+        "description": "yawning face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🖐",
+        "aliases": ["hand_with_fingers_splayed"],
+        "emoji": "\uD83D\uDD90",
+        "description": "hand with fingers splayed",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🥰",
+        "aliases": ["smiling_face_with_hearts"],
+        "emoji": "\uD83E\uDD70",
+        "description": "smiling face with hearts",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🥵",
+        "aliases": ["hot_face"],
+        "emoji": "\uD83E\uDD75",
+        "description": "hot face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🥴",
+        "aliases": ["woozy_face"],
+        "emoji": "\uD83E\uDD74",
+        "description": "woozy face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🥳",
+        "aliases": ["partying_face"],
+        "emoji": "\uD83E\uDD73",
+        "description": "partying face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🥲",
+        "aliases": ["smiling_face_with_tear"],
+        "emoji": "\uD83E\uDD72",
+        "description": "smiling face with tear",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "✊",
+        "aliases": ["raised_fist"],
+        "emoji": "\u270A",
+        "description": "raised fist",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "✋",
+        "aliases": ["raised_hand"],
+        "emoji": "\u270B",
+        "description": "raised hand",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "✌",
+        "aliases": ["victory_hand"],
+        "emoji": "\u270C",
+        "description": "victory hand",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🖤",
+        "aliases": ["⊛_grey_heart"],
+        "emoji": "\uD83D\uDDA4",
+        "description": "⊛ grey heart",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🧐",
+        "aliases": ["face_with_monocle"],
+        "emoji": "\uD83E\uDDD0",
+        "description": "face with monocle",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🗯",
+        "aliases": ["right_anger_bubble"],
+        "emoji": "\uD83D\uDDEF",
+        "description": "right anger bubble",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🗨",
+        "aliases": ["left_speech_bubble"],
+        "emoji": "\uD83D\uDDE8",
+        "description": "left speech bubble",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😘",
+        "aliases": ["face_blowing_a_kiss"],
+        "emoji": "\uD83D\uDE18",
+        "description": "face blowing a kiss",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😗",
+        "aliases": ["kissing_face"],
+        "emoji": "\uD83D\uDE17",
+        "description": "kissing face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😖",
+        "aliases": ["confounded_face"],
+        "emoji": "\uD83D\uDE16",
+        "description": "confounded face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😕",
+        "aliases": ["confused_face"],
+        "emoji": "\uD83D\uDE15",
+        "description": "confused face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "❣",
+        "aliases": ["heart_exclamation"],
+        "emoji": "\u2763",
+        "description": "heart exclamation",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😜",
+        "aliases": ["winking_face_with_tongue"],
+        "emoji": "\uD83D\uDE1C",
+        "description": "winking face with tongue",
+        "tags": ["smileys_and_people"]
     },
     {
         "emojiChar": "😮\u200d💨",
         "aliases": ["face_exhaling"],
         "emoji": "\uD83D\uDE2E\u200D\uD83D\uDCA8",
         "description": "face exhaling",
-        "tags": [
-            "smileys_&_emotion",
-            "face-neutral-skeptical"
-        ]
+        "tags": ["smileys_and_people"]
     },
     {
-        "emojiChar": "🤥",
-        "aliases": ["lying_face"],
-        "emoji": "\uD83E\uDD25",
-        "description": "lying face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-neutral-skeptical"
-        ]
+        "emojiChar": "❤",
+        "aliases": ["⊛_pink_heart"],
+        "emoji": "\u2764",
+        "description": "⊛ pink heart",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😛",
+        "aliases": ["face_with_tongue"],
+        "emoji": "\uD83D\uDE1B",
+        "description": "face with tongue",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😚",
+        "aliases": ["kissing_face_with_closed_eyes"],
+        "emoji": "\uD83D\uDE1A",
+        "description": "kissing face with closed eyes",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😙",
+        "aliases": ["kissing_face_with_smiling_eyes"],
+        "emoji": "\uD83D\uDE19",
+        "description": "kissing face with smiling eyes",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😐",
+        "aliases": ["neutral_face"],
+        "emoji": "\uD83D\uDE10",
+        "description": "neutral face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😏",
+        "aliases": ["smirking_face"],
+        "emoji": "\uD83D\uDE0F",
+        "description": "smirking face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😎",
+        "aliases": ["smiling_face_with_sunglasses"],
+        "emoji": "\uD83D\uDE0E",
+        "description": "smiling face with sunglasses",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😍",
+        "aliases": ["smiling_face_with_heart_eyes"],
+        "emoji": "\uD83D\uDE0D",
+        "description": "smiling face with heart-eyes",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😔",
+        "aliases": ["pensive_face"],
+        "emoji": "\uD83D\uDE14",
+        "description": "pensive face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "❤️\u200d🔥",
+        "aliases": ["heart_on_fire"],
+        "emoji": "\u2764\uFE0F\u200D\uD83D\uDD25",
+        "description": "heart on fire",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😓",
+        "aliases": ["downcast_face_with_sweat"],
+        "emoji": "\uD83D\uDE13",
+        "description": "downcast face with sweat",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😒",
+        "aliases": ["unamused_face"],
+        "emoji": "\uD83D\uDE12",
+        "description": "unamused face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😑",
+        "aliases": ["expressionless_face"],
+        "emoji": "\uD83D\uDE11",
+        "description": "expressionless face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😈",
+        "aliases": ["smiling_face_with_horns"],
+        "emoji": "\uD83D\uDE08",
+        "description": "smiling face with horns",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😇",
+        "aliases": ["smiling_face_with_halo"],
+        "emoji": "\uD83D\uDE07",
+        "description": "smiling face with halo",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😆",
+        "aliases": ["grinning_squinting_face"],
+        "emoji": "\uD83D\uDE06",
+        "description": "grinning squinting face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😅",
+        "aliases": ["grinning_face_with_sweat"],
+        "emoji": "\uD83D\uDE05",
+        "description": "grinning face with sweat",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😌",
+        "aliases": ["relieved_face"],
+        "emoji": "\uD83D\uDE0C",
+        "description": "relieved face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😋",
+        "aliases": ["face_savoring_food"],
+        "emoji": "\uD83D\uDE0B",
+        "description": "face savoring food",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😊",
+        "aliases": ["smiling_face_with_smiling_eyes"],
+        "emoji": "\uD83D\uDE0A",
+        "description": "smiling face with smiling eyes",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😉",
+        "aliases": ["winking_face"],
+        "emoji": "\uD83D\uDE09",
+        "description": "winking face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😀",
+        "aliases": ["grinning_face"],
+        "emoji": "\uD83D\uDE00",
+        "description": "grinning face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🧡",
+        "aliases": ["orange_heart"],
+        "emoji": "\uD83E\uDDE1",
+        "description": "orange heart",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😄",
+        "aliases": ["grinning_face_with_smiling_eyes"],
+        "emoji": "\uD83D\uDE04",
+        "description": "grinning face with smiling eyes",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😃",
+        "aliases": ["grinning_face_with_big_eyes"],
+        "emoji": "\uD83D\uDE03",
+        "description": "grinning face with big eyes",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😂",
+        "aliases": ["face_with_tears_of_joy"],
+        "emoji": "\uD83D\uDE02",
+        "description": "face with tears of joy",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😶\u200d🌫️",
+        "aliases": ["face_in_clouds"],
+        "emoji": "\uD83D\uDE36\u200D\uD83C\uDF2B\uFE0F",
+        "description": "face in clouds",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😁",
+        "aliases": ["beaming_face_with_smiling_eyes"],
+        "emoji": "\uD83D\uDE01",
+        "description": "beaming face with smiling eyes",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😸",
+        "aliases": ["grinning_cat_with_smiling_eyes"],
+        "emoji": "\uD83D\uDE38",
+        "description": "grinning cat with smiling eyes",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😷",
+        "aliases": ["face_with_medical_mask"],
+        "emoji": "\uD83D\uDE37",
+        "description": "face with medical mask",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😶",
+        "aliases": ["face_without_mouth"],
+        "emoji": "\uD83D\uDE36",
+        "description": "face without mouth",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😵",
+        "aliases": ["face_with_crossed_out_eyes"],
+        "emoji": "\uD83D\uDE35",
+        "description": "face with crossed-out eyes",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😼",
+        "aliases": ["cat_with_wry_smile"],
+        "emoji": "\uD83D\uDE3C",
+        "description": "cat with wry smile",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😻",
+        "aliases": ["smiling_cat_with_heart_eyes"],
+        "emoji": "\uD83D\uDE3B",
+        "description": "smiling cat with heart-eyes",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😺",
+        "aliases": ["grinning_cat"],
+        "emoji": "\uD83D\uDE3A",
+        "description": "grinning cat",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😹",
+        "aliases": ["cat_with_tears_of_joy"],
+        "emoji": "\uD83D\uDE39",
+        "description": "cat with tears of joy",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😰",
+        "aliases": ["anxious_face_with_sweat"],
+        "emoji": "\uD83D\uDE30",
+        "description": "anxious face with sweat",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😯",
+        "aliases": ["hushed_face"],
+        "emoji": "\uD83D\uDE2F",
+        "description": "hushed face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😮",
+        "aliases": ["face_with_open_mouth"],
+        "emoji": "\uD83D\uDE2E",
+        "description": "face with open mouth",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😭",
+        "aliases": ["loudly_crying_face"],
+        "emoji": "\uD83D\uDE2D",
+        "description": "loudly crying face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😴",
+        "aliases": ["sleeping_face"],
+        "emoji": "\uD83D\uDE34",
+        "description": "sleeping face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😳",
+        "aliases": ["flushed_face"],
+        "emoji": "\uD83D\uDE33",
+        "description": "flushed face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😲",
+        "aliases": ["astonished_face"],
+        "emoji": "\uD83D\uDE32",
+        "description": "astonished face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😱",
+        "aliases": ["face_screaming_in_fear"],
+        "emoji": "\uD83D\uDE31",
+        "description": "face screaming in fear",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "👁️\u200d🗨️",
+        "aliases": ["eye_in_speech_bubble"],
+        "emoji": "\uD83D\uDC41\uFE0F\u200D\uD83D\uDDE8\uFE0F",
+        "description": "eye in speech bubble",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😨",
+        "aliases": ["fearful_face"],
+        "emoji": "\uD83D\uDE28",
+        "description": "fearful face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😧",
+        "aliases": ["anguished_face"],
+        "emoji": "\uD83D\uDE27",
+        "description": "anguished face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😦",
+        "aliases": ["frowning_face_with_open_mouth"],
+        "emoji": "\uD83D\uDE26",
+        "description": "frowning face with open mouth",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😥",
+        "aliases": ["sad_but_relieved_face"],
+        "emoji": "\uD83D\uDE25",
+        "description": "sad but relieved face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😬",
+        "aliases": ["grimacing_face"],
+        "emoji": "\uD83D\uDE2C",
+        "description": "grimacing face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😫",
+        "aliases": ["tired_face"],
+        "emoji": "\uD83D\uDE2B",
+        "description": "tired face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😪",
+        "aliases": ["sleepy_face"],
+        "emoji": "\uD83D\uDE2A",
+        "description": "sleepy face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😩",
+        "aliases": ["weary_face"],
+        "emoji": "\uD83D\uDE29",
+        "description": "weary face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😠",
+        "aliases": ["angry_face"],
+        "emoji": "\uD83D\uDE20",
+        "description": "angry face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😟",
+        "aliases": ["worried_face"],
+        "emoji": "\uD83D\uDE1F",
+        "description": "worried face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😞",
+        "aliases": ["disappointed_face"],
+        "emoji": "\uD83D\uDE1E",
+        "description": "disappointed face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😝",
+        "aliases": ["squinting_face_with_tongue"],
+        "emoji": "\uD83D\uDE1D",
+        "description": "squinting face with tongue",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😤",
+        "aliases": ["face_with_steam_from_nose"],
+        "emoji": "\uD83D\uDE24",
+        "description": "face with steam from nose",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😣",
+        "aliases": ["persevering_face"],
+        "emoji": "\uD83D\uDE23",
+        "description": "persevering face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😢",
+        "aliases": ["crying_face"],
+        "emoji": "\uD83D\uDE22",
+        "description": "crying face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😡",
+        "aliases": ["enraged_face"],
+        "emoji": "\uD83D\uDE21",
+        "description": "enraged face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "👐",
+        "aliases": ["open_hands"],
+        "emoji": "\uD83D\uDC50",
+        "description": "open hands",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "👏",
+        "aliases": ["clapping_hands"],
+        "emoji": "\uD83D\uDC4F",
+        "description": "clapping hands",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🙏",
+        "aliases": ["folded_hands"],
+        "emoji": "\uD83D\uDE4F",
+        "description": "folded hands",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "👎",
+        "aliases": ["thumbs_down"],
+        "emoji": "\uD83D\uDC4E",
+        "description": "thumbs down",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "👍",
+        "aliases": ["thumbs_up"],
+        "emoji": "\uD83D\uDC4D",
+        "description": "thumbs up",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🙈",
+        "aliases": ["see_no_evil_monkey"],
+        "emoji": "\uD83D\uDE48",
+        "description": "see-no-evil monkey",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "👈",
+        "aliases": ["backhand_index_pointing_left"],
+        "emoji": "\uD83D\uDC48",
+        "description": "backhand index pointing left",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "👇",
+        "aliases": ["backhand_index_pointing_down"],
+        "emoji": "\uD83D\uDC47",
+        "description": "backhand index pointing down",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "👆",
+        "aliases": ["backhand_index_pointing_up"],
+        "emoji": "\uD83D\uDC46",
+        "description": "backhand index pointing up",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "👌",
+        "aliases": ["OK_hand"],
+        "emoji": "\uD83D\uDC4C",
+        "description": "OK hand",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🙌",
+        "aliases": ["raising_hands"],
+        "emoji": "\uD83D\uDE4C",
+        "description": "raising hands",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "👋",
+        "aliases": ["waving_hand"],
+        "emoji": "\uD83D\uDC4B",
+        "description": "waving hand",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🙊",
+        "aliases": ["speak_no_evil_monkey"],
+        "emoji": "\uD83D\uDE4A",
+        "description": "speak-no-evil monkey",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "👊",
+        "aliases": ["oncoming_fist"],
+        "emoji": "\uD83D\uDC4A",
+        "description": "oncoming fist",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🙉",
+        "aliases": ["hear_no_evil_monkey"],
+        "emoji": "\uD83D\uDE49",
+        "description": "hear-no-evil monkey",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "👉",
+        "aliases": ["backhand_index_pointing_right"],
+        "emoji": "\uD83D\uDC49",
+        "description": "backhand index pointing right",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🙀",
+        "aliases": ["weary_cat"],
+        "emoji": "\uD83D\uDE40",
+        "description": "weary cat",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😿",
+        "aliases": ["crying_cat"],
+        "emoji": "\uD83D\uDE3F",
+        "description": "crying cat",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😾",
+        "aliases": ["pouting_cat"],
+        "emoji": "\uD83D\uDE3E",
+        "description": "pouting cat",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "😽",
+        "aliases": ["kissing_cat"],
+        "emoji": "\uD83D\uDE3D",
+        "description": "kissing cat",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🙄",
+        "aliases": ["face_with_rolling_eyes"],
+        "emoji": "\uD83D\uDE44",
+        "description": "face with rolling eyes",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🙃",
+        "aliases": ["upside_down_face"],
+        "emoji": "\uD83D\uDE43",
+        "description": "upside-down face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🙂",
+        "aliases": ["slightly_smiling_face"],
+        "emoji": "\uD83D\uDE42",
+        "description": "slightly smiling face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "🙁",
+        "aliases": ["slightly_frowning_face"],
+        "emoji": "\uD83D\uDE41",
+        "description": "slightly frowning face",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "👻",
+        "aliases": ["ghost"],
+        "emoji": "\uD83D\uDC7B",
+        "description": "ghost",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "👺",
+        "aliases": ["goblin"],
+        "emoji": "\uD83D\uDC7A",
+        "description": "goblin",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "👹",
+        "aliases": ["ogre"],
+        "emoji": "\uD83D\uDC79",
+        "description": "ogre",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "💘",
+        "aliases": ["heart_with_arrow"],
+        "emoji": "\uD83D\uDC98",
+        "description": "heart with arrow",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "💗",
+        "aliases": ["growing_heart"],
+        "emoji": "\uD83D\uDC97",
+        "description": "growing heart",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "💖",
+        "aliases": ["sparkling_heart"],
+        "emoji": "\uD83D\uDC96",
+        "description": "sparkling heart",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "💕",
+        "aliases": ["two_hearts"],
+        "emoji": "\uD83D\uDC95",
+        "description": "two hearts",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "💜",
+        "aliases": ["purple_heart"],
+        "emoji": "\uD83D\uDC9C",
+        "description": "purple heart",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "💛",
+        "aliases": ["yellow_heart"],
+        "emoji": "\uD83D\uDC9B",
+        "description": "yellow heart",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "💚",
+        "aliases": ["green_heart"],
+        "emoji": "\uD83D\uDC9A",
+        "description": "green heart",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "💙",
+        "aliases": ["blue_heart"],
+        "emoji": "\uD83D\uDC99",
+        "description": "blue heart",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "💔",
+        "aliases": ["broken_heart"],
+        "emoji": "\uD83D\uDC94",
+        "description": "broken heart",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "💓",
+        "aliases": ["beating_heart"],
+        "emoji": "\uD83D\uDC93",
+        "description": "beating heart",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "💌",
+        "aliases": ["love_letter"],
+        "emoji": "\uD83D\uDC8C",
+        "description": "love letter",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "💋",
+        "aliases": ["kiss_mark"],
+        "emoji": "\uD83D\uDC8B",
+        "description": "kiss mark",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "💀",
+        "aliases": ["skull"],
+        "emoji": "\uD83D\uDC80",
+        "description": "skull",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "👿",
+        "aliases": ["angry_face_with_horns"],
+        "emoji": "\uD83D\uDC7F",
+        "description": "angry face with horns",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "👾",
+        "aliases": ["alien_monster"],
+        "emoji": "\uD83D\uDC7E",
+        "description": "alien monster",
+        "tags": ["smileys_and_people"]
+    },
+    {
+        "emojiChar": "👽",
+        "aliases": ["alien"],
+        "emoji": "\uD83D\uDC7D",
+        "description": "alien",
+        "tags": ["smileys_and_people"]
     },
     {
         "emojiChar": "🫨",
@@ -520,56 +1430,6 @@
         ]
     },
     {
-        "emojiChar": "😌",
-        "aliases": ["relieved_face"],
-        "emoji": "\uD83D\uDE0C",
-        "description": "relieved face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-sleepy"
-        ]
-    },
-    {
-        "emojiChar": "😔",
-        "aliases": ["pensive_face"],
-        "emoji": "\uD83D\uDE14",
-        "description": "pensive face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-sleepy"
-        ]
-    },
-    {
-        "emojiChar": "😪",
-        "aliases": ["sleepy_face"],
-        "emoji": "\uD83D\uDE2A",
-        "description": "sleepy face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-sleepy"
-        ]
-    },
-    {
-        "emojiChar": "🤤",
-        "aliases": ["drooling_face"],
-        "emoji": "\uD83E\uDD24",
-        "description": "drooling face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-sleepy"
-        ]
-    },
-    {
-        "emojiChar": "😴",
-        "aliases": ["sleeping_face"],
-        "emoji": "\uD83D\uDE34",
-        "description": "sleeping face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-sleepy"
-        ]
-    },
-    {
         "emojiChar": "🫩",
         "aliases": ["face_with_bags_under_eyes"],
         "emoji": "\uD83E\uDEE9",
@@ -577,276 +1437,6 @@
         "tags": [
             "smileys_&_emotion",
             "face-sleepy"
-        ]
-    },
-    {
-        "emojiChar": "😷",
-        "aliases": ["face_with_medical_mask"],
-        "emoji": "\uD83D\uDE37",
-        "description": "face with medical mask",
-        "tags": [
-            "smileys_&_emotion",
-            "face-unwell"
-        ]
-    },
-    {
-        "emojiChar": "🤒",
-        "aliases": ["face_with_thermometer"],
-        "emoji": "\uD83E\uDD12",
-        "description": "face with thermometer",
-        "tags": [
-            "smileys_&_emotion",
-            "face-unwell"
-        ]
-    },
-    {
-        "emojiChar": "🤕",
-        "aliases": ["face_with_head-bandage"],
-        "emoji": "\uD83E\uDD15",
-        "description": "face with head-bandage",
-        "tags": [
-            "smileys_&_emotion",
-            "face-unwell"
-        ]
-    },
-    {
-        "emojiChar": "🤢",
-        "aliases": ["nauseated_face"],
-        "emoji": "\uD83E\uDD22",
-        "description": "nauseated face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-unwell"
-        ]
-    },
-    {
-        "emojiChar": "🤮",
-        "aliases": ["face_vomiting"],
-        "emoji": "\uD83E\uDD2E",
-        "description": "face vomiting",
-        "tags": [
-            "smileys_&_emotion",
-            "face-unwell"
-        ]
-    },
-    {
-        "emojiChar": "🤧",
-        "aliases": ["sneezing_face"],
-        "emoji": "\uD83E\uDD27",
-        "description": "sneezing face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-unwell"
-        ]
-    },
-    {
-        "emojiChar": "🥵",
-        "aliases": ["hot_face"],
-        "emoji": "\uD83E\uDD75",
-        "description": "hot face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-unwell"
-        ]
-    },
-    {
-        "emojiChar": "🥶",
-        "aliases": ["cold_face"],
-        "emoji": "\uD83E\uDD76",
-        "description": "cold face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-unwell"
-        ]
-    },
-    {
-        "emojiChar": "🥴",
-        "aliases": ["woozy_face"],
-        "emoji": "\uD83E\uDD74",
-        "description": "woozy face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-unwell"
-        ]
-    },
-    {
-        "emojiChar": "😵",
-        "aliases": ["face_with_crossed-out_eyes"],
-        "emoji": "\uD83D\uDE35",
-        "description": "face with crossed-out eyes",
-        "tags": [
-            "smileys_&_emotion",
-            "face-unwell"
-        ]
-    },
-    {
-        "emojiChar": "😵\u200d💫",
-        "aliases": ["face_with_spiral_eyes"],
-        "emoji": "\uD83D\uDE35\u200D\uD83D\uDCAB",
-        "description": "face with spiral eyes",
-        "tags": [
-            "smileys_&_emotion",
-            "face-unwell"
-        ]
-    },
-    {
-        "emojiChar": "🤯",
-        "aliases": ["exploding_head"],
-        "emoji": "\uD83E\uDD2F",
-        "description": "exploding head",
-        "tags": [
-            "smileys_&_emotion",
-            "face-unwell"
-        ]
-    },
-    {
-        "emojiChar": "🤠",
-        "aliases": ["cowboy_hat_face"],
-        "emoji": "\uD83E\uDD20",
-        "description": "cowboy hat face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-hat"
-        ]
-    },
-    {
-        "emojiChar": "🥳",
-        "aliases": ["partying_face"],
-        "emoji": "\uD83E\uDD73",
-        "description": "partying face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-hat"
-        ]
-    },
-    {
-        "emojiChar": "🥸",
-        "aliases": ["disguised_face"],
-        "emoji": "\uD83E\uDD78",
-        "description": "disguised face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-hat"
-        ]
-    },
-    {
-        "emojiChar": "😎",
-        "aliases": ["smiling_face_with_sunglasses"],
-        "emoji": "\uD83D\uDE0E",
-        "description": "smiling face with sunglasses",
-        "tags": [
-            "smileys_&_emotion",
-            "face-glasses"
-        ]
-    },
-    {
-        "emojiChar": "🤓",
-        "aliases": ["nerd_face"],
-        "emoji": "\uD83E\uDD13",
-        "description": "nerd face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-glasses"
-        ]
-    },
-    {
-        "emojiChar": "🧐",
-        "aliases": ["face_with_monocle"],
-        "emoji": "\uD83E\uDDD0",
-        "description": "face with monocle",
-        "tags": [
-            "smileys_&_emotion",
-            "face-glasses"
-        ]
-    },
-    {
-        "emojiChar": "😕",
-        "aliases": ["confused_face"],
-        "emoji": "\uD83D\uDE15",
-        "description": "confused face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-concerned"
-        ]
-    },
-    {
-        "emojiChar": "🫤",
-        "aliases": ["face_with_diagonal_mouth"],
-        "emoji": "\uD83E\uDEE4",
-        "description": "face with diagonal mouth",
-        "tags": [
-            "smileys_&_emotion",
-            "face-concerned"
-        ]
-    },
-    {
-        "emojiChar": "😟",
-        "aliases": ["worried_face"],
-        "emoji": "\uD83D\uDE1F",
-        "description": "worried face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-concerned"
-        ]
-    },
-    {
-        "emojiChar": "🙁",
-        "aliases": ["slightly_frowning_face"],
-        "emoji": "\uD83D\uDE41",
-        "description": "slightly frowning face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-concerned"
-        ]
-    },
-    {
-        "emojiChar": "☹",
-        "aliases": ["frowning_face"],
-        "emoji": "\u2639",
-        "description": "frowning face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-concerned"
-        ]
-    },
-    {
-        "emojiChar": "😮",
-        "aliases": ["face_with_open_mouth"],
-        "emoji": "\uD83D\uDE2E",
-        "description": "face with open mouth",
-        "tags": [
-            "smileys_&_emotion",
-            "face-concerned"
-        ]
-    },
-    {
-        "emojiChar": "😯",
-        "aliases": ["hushed_face"],
-        "emoji": "\uD83D\uDE2F",
-        "description": "hushed face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-concerned"
-        ]
-    },
-    {
-        "emojiChar": "😲",
-        "aliases": ["astonished_face"],
-        "emoji": "\uD83D\uDE32",
-        "description": "astonished face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-concerned"
-        ]
-    },
-    {
-        "emojiChar": "😳",
-        "aliases": ["flushed_face"],
-        "emoji": "\uD83D\uDE33",
-        "description": "flushed face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-concerned"
         ]
     },
     {
@@ -860,640 +1450,10 @@
         ]
     },
     {
-        "emojiChar": "🥺",
-        "aliases": ["pleading_face"],
-        "emoji": "\uD83E\uDD7A",
-        "description": "pleading face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-concerned"
-        ]
-    },
-    {
-        "emojiChar": "🥹",
-        "aliases": ["face_holding_back_tears"],
-        "emoji": "\uD83E\uDD79",
-        "description": "face holding back tears",
-        "tags": [
-            "smileys_&_emotion",
-            "face-concerned"
-        ]
-    },
-    {
-        "emojiChar": "😦",
-        "aliases": ["frowning_face_with_open_mouth"],
-        "emoji": "\uD83D\uDE26",
-        "description": "frowning face with open mouth",
-        "tags": [
-            "smileys_&_emotion",
-            "face-concerned"
-        ]
-    },
-    {
-        "emojiChar": "😧",
-        "aliases": ["anguished_face"],
-        "emoji": "\uD83D\uDE27",
-        "description": "anguished face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-concerned"
-        ]
-    },
-    {
-        "emojiChar": "😨",
-        "aliases": ["fearful_face"],
-        "emoji": "\uD83D\uDE28",
-        "description": "fearful face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-concerned"
-        ]
-    },
-    {
-        "emojiChar": "😰",
-        "aliases": ["anxious_face_with_sweat"],
-        "emoji": "\uD83D\uDE30",
-        "description": "anxious face with sweat",
-        "tags": [
-            "smileys_&_emotion",
-            "face-concerned"
-        ]
-    },
-    {
-        "emojiChar": "😥",
-        "aliases": ["sad_but_relieved_face"],
-        "emoji": "\uD83D\uDE25",
-        "description": "sad but relieved face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-concerned"
-        ]
-    },
-    {
-        "emojiChar": "😢",
-        "aliases": ["crying_face"],
-        "emoji": "\uD83D\uDE22",
-        "description": "crying face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-concerned"
-        ]
-    },
-    {
-        "emojiChar": "😭",
-        "aliases": ["loudly_crying_face"],
-        "emoji": "\uD83D\uDE2D",
-        "description": "loudly crying face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-concerned"
-        ]
-    },
-    {
-        "emojiChar": "😱",
-        "aliases": ["face_screaming_in_fear"],
-        "emoji": "\uD83D\uDE31",
-        "description": "face screaming in fear",
-        "tags": [
-            "smileys_&_emotion",
-            "face-concerned"
-        ]
-    },
-    {
-        "emojiChar": "😖",
-        "aliases": ["confounded_face"],
-        "emoji": "\uD83D\uDE16",
-        "description": "confounded face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-concerned"
-        ]
-    },
-    {
-        "emojiChar": "😣",
-        "aliases": ["persevering_face"],
-        "emoji": "\uD83D\uDE23",
-        "description": "persevering face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-concerned"
-        ]
-    },
-    {
-        "emojiChar": "😞",
-        "aliases": ["disappointed_face"],
-        "emoji": "\uD83D\uDE1E",
-        "description": "disappointed face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-concerned"
-        ]
-    },
-    {
-        "emojiChar": "😓",
-        "aliases": ["downcast_face_with_sweat"],
-        "emoji": "\uD83D\uDE13",
-        "description": "downcast face with sweat",
-        "tags": [
-            "smileys_&_emotion",
-            "face-concerned"
-        ]
-    },
-    {
-        "emojiChar": "😩",
-        "aliases": ["weary_face"],
-        "emoji": "\uD83D\uDE29",
-        "description": "weary face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-concerned"
-        ]
-    },
-    {
-        "emojiChar": "😫",
-        "aliases": ["tired_face"],
-        "emoji": "\uD83D\uDE2B",
-        "description": "tired face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-concerned"
-        ]
-    },
-    {
-        "emojiChar": "🥱",
-        "aliases": ["yawning_face"],
-        "emoji": "\uD83E\uDD71",
-        "description": "yawning face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-concerned"
-        ]
-    },
-    {
-        "emojiChar": "😤",
-        "aliases": ["face_with_steam_from_nose"],
-        "emoji": "\uD83D\uDE24",
-        "description": "face with steam from nose",
-        "tags": [
-            "smileys_&_emotion",
-            "face-negative"
-        ]
-    },
-    {
-        "emojiChar": "😡",
-        "aliases": ["enraged_face"],
-        "emoji": "\uD83D\uDE21",
-        "description": "enraged face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-negative"
-        ]
-    },
-    {
-        "emojiChar": "😠",
-        "aliases": ["angry_face"],
-        "emoji": "\uD83D\uDE20",
-        "description": "angry face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-negative"
-        ]
-    },
-    {
-        "emojiChar": "🤬",
-        "aliases": ["face_with_symbols_on_mouth"],
-        "emoji": "\uD83E\uDD2C",
-        "description": "face with symbols on mouth",
-        "tags": [
-            "smileys_&_emotion",
-            "face-negative"
-        ]
-    },
-    {
-        "emojiChar": "😈",
-        "aliases": ["smiling_face_with_horns"],
-        "emoji": "\uD83D\uDE08",
-        "description": "smiling face with horns",
-        "tags": [
-            "smileys_&_emotion",
-            "face-negative"
-        ]
-    },
-    {
-        "emojiChar": "👿",
-        "aliases": ["angry_face_with_horns"],
-        "emoji": "\uD83D\uDC7F",
-        "description": "angry face with horns",
-        "tags": [
-            "smileys_&_emotion",
-            "face-negative"
-        ]
-    },
-    {
-        "emojiChar": "💀",
-        "aliases": ["skull"],
-        "emoji": "\uD83D\uDC80",
-        "description": "skull",
-        "tags": [
-            "smileys_&_emotion",
-            "face-negative"
-        ]
-    },
-    {
-        "emojiChar": "☠",
-        "aliases": ["skull_and_crossbones"],
-        "emoji": "\u2620",
-        "description": "skull and crossbones",
-        "tags": [
-            "smileys_&_emotion",
-            "face-negative"
-        ]
-    },
-    {
-        "emojiChar": "💩",
-        "aliases": ["pile_of_poo"],
-        "emoji": "\uD83D\uDCA9",
-        "description": "pile of poo",
-        "tags": [
-            "smileys_&_emotion",
-            "face-costume"
-        ]
-    },
-    {
-        "emojiChar": "🤡",
-        "aliases": ["clown_face"],
-        "emoji": "\uD83E\uDD21",
-        "description": "clown face",
-        "tags": [
-            "smileys_&_emotion",
-            "face-costume"
-        ]
-    },
-    {
-        "emojiChar": "👹",
-        "aliases": ["ogre"],
-        "emoji": "\uD83D\uDC79",
-        "description": "ogre",
-        "tags": [
-            "smileys_&_emotion",
-            "face-costume"
-        ]
-    },
-    {
-        "emojiChar": "👺",
-        "aliases": ["goblin"],
-        "emoji": "\uD83D\uDC7A",
-        "description": "goblin",
-        "tags": [
-            "smileys_&_emotion",
-            "face-costume"
-        ]
-    },
-    {
-        "emojiChar": "👻",
-        "aliases": ["ghost"],
-        "emoji": "\uD83D\uDC7B",
-        "description": "ghost",
-        "tags": [
-            "smileys_&_emotion",
-            "face-costume"
-        ]
-    },
-    {
-        "emojiChar": "👽",
-        "aliases": ["alien"],
-        "emoji": "\uD83D\uDC7D",
-        "description": "alien",
-        "tags": [
-            "smileys_&_emotion",
-            "face-costume"
-        ]
-    },
-    {
-        "emojiChar": "👾",
-        "aliases": ["alien_monster"],
-        "emoji": "\uD83D\uDC7E",
-        "description": "alien monster",
-        "tags": [
-            "smileys_&_emotion",
-            "face-costume"
-        ]
-    },
-    {
-        "emojiChar": "🤖",
-        "aliases": ["robot"],
-        "emoji": "\uD83E\uDD16",
-        "description": "robot",
-        "tags": [
-            "smileys_&_emotion",
-            "face-costume"
-        ]
-    },
-    {
-        "emojiChar": "😺",
-        "aliases": ["grinning_cat"],
-        "emoji": "\uD83D\uDE3A",
-        "description": "grinning cat",
-        "tags": [
-            "smileys_&_emotion",
-            "cat-face"
-        ]
-    },
-    {
-        "emojiChar": "😸",
-        "aliases": ["grinning_cat_with_smiling_eyes"],
-        "emoji": "\uD83D\uDE38",
-        "description": "grinning cat with smiling eyes",
-        "tags": [
-            "smileys_&_emotion",
-            "cat-face"
-        ]
-    },
-    {
-        "emojiChar": "😹",
-        "aliases": ["cat_with_tears_of_joy"],
-        "emoji": "\uD83D\uDE39",
-        "description": "cat with tears of joy",
-        "tags": [
-            "smileys_&_emotion",
-            "cat-face"
-        ]
-    },
-    {
-        "emojiChar": "😻",
-        "aliases": ["smiling_cat_with_heart-eyes"],
-        "emoji": "\uD83D\uDE3B",
-        "description": "smiling cat with heart-eyes",
-        "tags": [
-            "smileys_&_emotion",
-            "cat-face"
-        ]
-    },
-    {
-        "emojiChar": "😼",
-        "aliases": ["cat_with_wry_smile"],
-        "emoji": "\uD83D\uDE3C",
-        "description": "cat with wry smile",
-        "tags": [
-            "smileys_&_emotion",
-            "cat-face"
-        ]
-    },
-    {
-        "emojiChar": "😽",
-        "aliases": ["kissing_cat"],
-        "emoji": "\uD83D\uDE3D",
-        "description": "kissing cat",
-        "tags": [
-            "smileys_&_emotion",
-            "cat-face"
-        ]
-    },
-    {
-        "emojiChar": "🙀",
-        "aliases": ["weary_cat"],
-        "emoji": "\uD83D\uDE40",
-        "description": "weary cat",
-        "tags": [
-            "smileys_&_emotion",
-            "cat-face"
-        ]
-    },
-    {
-        "emojiChar": "😿",
-        "aliases": ["crying_cat"],
-        "emoji": "\uD83D\uDE3F",
-        "description": "crying cat",
-        "tags": [
-            "smileys_&_emotion",
-            "cat-face"
-        ]
-    },
-    {
-        "emojiChar": "😾",
-        "aliases": ["pouting_cat"],
-        "emoji": "\uD83D\uDE3E",
-        "description": "pouting cat",
-        "tags": [
-            "smileys_&_emotion",
-            "cat-face"
-        ]
-    },
-    {
-        "emojiChar": "🙈",
-        "aliases": ["see-no-evil_monkey"],
-        "emoji": "\uD83D\uDE48",
-        "description": "see-no-evil monkey",
-        "tags": [
-            "smileys_&_emotion",
-            "monkey-face"
-        ]
-    },
-    {
-        "emojiChar": "🙉",
-        "aliases": ["hear-no-evil_monkey"],
-        "emoji": "\uD83D\uDE49",
-        "description": "hear-no-evil monkey",
-        "tags": [
-            "smileys_&_emotion",
-            "monkey-face"
-        ]
-    },
-    {
-        "emojiChar": "🙊",
-        "aliases": ["speak-no-evil_monkey"],
-        "emoji": "\uD83D\uDE4A",
-        "description": "speak-no-evil monkey",
-        "tags": [
-            "smileys_&_emotion",
-            "monkey-face"
-        ]
-    },
-    {
-        "emojiChar": "💌",
-        "aliases": ["love_letter"],
-        "emoji": "\uD83D\uDC8C",
-        "description": "love letter",
-        "tags": [
-            "smileys_&_emotion",
-            "heart"
-        ]
-    },
-    {
-        "emojiChar": "💘",
-        "aliases": ["heart_with_arrow"],
-        "emoji": "\uD83D\uDC98",
-        "description": "heart with arrow",
-        "tags": [
-            "smileys_&_emotion",
-            "heart"
-        ]
-    },
-    {
-        "emojiChar": "💝",
-        "aliases": ["heart_with_ribbon"],
-        "emoji": "\uD83D\uDC9D",
-        "description": "heart with ribbon",
-        "tags": [
-            "smileys_&_emotion",
-            "heart"
-        ]
-    },
-    {
-        "emojiChar": "💖",
-        "aliases": ["sparkling_heart"],
-        "emoji": "\uD83D\uDC96",
-        "description": "sparkling heart",
-        "tags": [
-            "smileys_&_emotion",
-            "heart"
-        ]
-    },
-    {
-        "emojiChar": "💗",
-        "aliases": ["growing_heart"],
-        "emoji": "\uD83D\uDC97",
-        "description": "growing heart",
-        "tags": [
-            "smileys_&_emotion",
-            "heart"
-        ]
-    },
-    {
-        "emojiChar": "💓",
-        "aliases": ["beating_heart"],
-        "emoji": "\uD83D\uDC93",
-        "description": "beating heart",
-        "tags": [
-            "smileys_&_emotion",
-            "heart"
-        ]
-    },
-    {
-        "emojiChar": "💞",
-        "aliases": ["revolving_hearts"],
-        "emoji": "\uD83D\uDC9E",
-        "description": "revolving hearts",
-        "tags": [
-            "smileys_&_emotion",
-            "heart"
-        ]
-    },
-    {
-        "emojiChar": "💕",
-        "aliases": ["two_hearts"],
-        "emoji": "\uD83D\uDC95",
-        "description": "two hearts",
-        "tags": [
-            "smileys_&_emotion",
-            "heart"
-        ]
-    },
-    {
-        "emojiChar": "💟",
-        "aliases": ["heart_decoration"],
-        "emoji": "\uD83D\uDC9F",
-        "description": "heart decoration",
-        "tags": [
-            "smileys_&_emotion",
-            "heart"
-        ]
-    },
-    {
-        "emojiChar": "❣",
-        "aliases": ["heart_exclamation"],
-        "emoji": "\u2763",
-        "description": "heart exclamation",
-        "tags": [
-            "smileys_&_emotion",
-            "heart"
-        ]
-    },
-    {
-        "emojiChar": "💔",
-        "aliases": ["broken_heart"],
-        "emoji": "\uD83D\uDC94",
-        "description": "broken heart",
-        "tags": [
-            "smileys_&_emotion",
-            "heart"
-        ]
-    },
-    {
-        "emojiChar": "❤️\u200d🔥",
-        "aliases": ["heart_on_fire"],
-        "emoji": "\u2764\uFE0F\u200D\uD83D\uDD25",
-        "description": "heart on fire",
-        "tags": [
-            "smileys_&_emotion",
-            "heart"
-        ]
-    },
-    {
-        "emojiChar": "❤️\u200d🩹",
-        "aliases": ["mending_heart"],
-        "emoji": "\u2764\uFE0F\u200D\uD83E\uDE79",
-        "description": "mending heart",
-        "tags": [
-            "smileys_&_emotion",
-            "heart"
-        ]
-    },
-    {
-        "emojiChar": "❤",
-        "aliases": ["red_heart"],
-        "emoji": "\u2764",
-        "description": "red heart",
-        "tags": [
-            "smileys_&_emotion",
-            "heart"
-        ]
-    },
-    {
         "emojiChar": "🩷",
         "aliases": ["pink_heart"],
         "emoji": "\uD83E\uDE77",
         "description": "pink heart",
-        "tags": [
-            "smileys_&_emotion",
-            "heart"
-        ]
-    },
-    {
-        "emojiChar": "🧡",
-        "aliases": ["orange_heart"],
-        "emoji": "\uD83E\uDDE1",
-        "description": "orange heart",
-        "tags": [
-            "smileys_&_emotion",
-            "heart"
-        ]
-    },
-    {
-        "emojiChar": "💛",
-        "aliases": ["yellow_heart"],
-        "emoji": "\uD83D\uDC9B",
-        "description": "yellow heart",
-        "tags": [
-            "smileys_&_emotion",
-            "heart"
-        ]
-    },
-    {
-        "emojiChar": "💚",
-        "aliases": ["green_heart"],
-        "emoji": "\uD83D\uDC9A",
-        "description": "green heart",
-        "tags": [
-            "smileys_&_emotion",
-            "heart"
-        ]
-    },
-    {
-        "emojiChar": "💙",
-        "aliases": ["blue_heart"],
-        "emoji": "\uD83D\uDC99",
-        "description": "blue heart",
         "tags": [
             "smileys_&_emotion",
             "heart"
@@ -1510,36 +1470,6 @@
         ]
     },
     {
-        "emojiChar": "💜",
-        "aliases": ["purple_heart"],
-        "emoji": "\uD83D\uDC9C",
-        "description": "purple heart",
-        "tags": [
-            "smileys_&_emotion",
-            "heart"
-        ]
-    },
-    {
-        "emojiChar": "🤎",
-        "aliases": ["brown_heart"],
-        "emoji": "\uD83E\uDD0E",
-        "description": "brown heart",
-        "tags": [
-            "smileys_&_emotion",
-            "heart"
-        ]
-    },
-    {
-        "emojiChar": "🖤",
-        "aliases": ["black_heart"],
-        "emoji": "\uD83D\uDDA4",
-        "description": "black heart",
-        "tags": [
-            "smileys_&_emotion",
-            "heart"
-        ]
-    },
-    {
         "emojiChar": "🩶",
         "aliases": ["grey_heart"],
         "emoji": "\uD83E\uDE76",
@@ -1550,46 +1480,6 @@
         ]
     },
     {
-        "emojiChar": "🤍",
-        "aliases": ["white_heart"],
-        "emoji": "\uD83E\uDD0D",
-        "description": "white heart",
-        "tags": [
-            "smileys_&_emotion",
-            "heart"
-        ]
-    },
-    {
-        "emojiChar": "💋",
-        "aliases": ["kiss_mark"],
-        "emoji": "\uD83D\uDC8B",
-        "description": "kiss mark",
-        "tags": [
-            "smileys_&_emotion",
-            "emotion"
-        ]
-    },
-    {
-        "emojiChar": "💯",
-        "aliases": ["hundred_points"],
-        "emoji": "\uD83D\uDCAF",
-        "description": "hundred points",
-        "tags": [
-            "smileys_&_emotion",
-            "emotion"
-        ]
-    },
-    {
-        "emojiChar": "💢",
-        "aliases": ["anger_symbol"],
-        "emoji": "\uD83D\uDCA2",
-        "description": "anger symbol",
-        "tags": [
-            "smileys_&_emotion",
-            "emotion"
-        ]
-    },
-    {
         "emojiChar": "🫯",
         "aliases": ["_fight_cloud"],
         "emoji": "\uD83E\uDEEF",
@@ -1597,206 +1487,6 @@
         "tags": [
             "smileys_&_emotion",
             "emotion"
-        ]
-    },
-    {
-        "emojiChar": "💥",
-        "aliases": ["collision"],
-        "emoji": "\uD83D\uDCA5",
-        "description": "collision",
-        "tags": [
-            "smileys_&_emotion",
-            "emotion"
-        ]
-    },
-    {
-        "emojiChar": "💫",
-        "aliases": ["dizzy"],
-        "emoji": "\uD83D\uDCAB",
-        "description": "dizzy",
-        "tags": [
-            "smileys_&_emotion",
-            "emotion"
-        ]
-    },
-    {
-        "emojiChar": "💦",
-        "aliases": ["sweat_droplets"],
-        "emoji": "\uD83D\uDCA6",
-        "description": "sweat droplets",
-        "tags": [
-            "smileys_&_emotion",
-            "emotion"
-        ]
-    },
-    {
-        "emojiChar": "💨",
-        "aliases": ["dashing_away"],
-        "emoji": "\uD83D\uDCA8",
-        "description": "dashing away",
-        "tags": [
-            "smileys_&_emotion",
-            "emotion"
-        ]
-    },
-    {
-        "emojiChar": "🕳",
-        "aliases": ["hole"],
-        "emoji": "\uD83D\uDD73",
-        "description": "hole",
-        "tags": [
-            "smileys_&_emotion",
-            "emotion"
-        ]
-    },
-    {
-        "emojiChar": "💬",
-        "aliases": ["speech_balloon"],
-        "emoji": "\uD83D\uDCAC",
-        "description": "speech balloon",
-        "tags": [
-            "smileys_&_emotion",
-            "emotion"
-        ]
-    },
-    {
-        "emojiChar": "👁️\u200d🗨️",
-        "aliases": ["eye_in_speech_bubble"],
-        "emoji": "\uD83D\uDC41\uFE0F\u200D\uD83D\uDDE8\uFE0F",
-        "description": "eye in speech bubble",
-        "tags": [
-            "smileys_&_emotion",
-            "emotion"
-        ]
-    },
-    {
-        "emojiChar": "🗨",
-        "aliases": ["left_speech_bubble"],
-        "emoji": "\uD83D\uDDE8",
-        "description": "left speech bubble",
-        "tags": [
-            "smileys_&_emotion",
-            "emotion"
-        ]
-    },
-    {
-        "emojiChar": "🗯",
-        "aliases": ["right_anger_bubble"],
-        "emoji": "\uD83D\uDDEF",
-        "description": "right anger bubble",
-        "tags": [
-            "smileys_&_emotion",
-            "emotion"
-        ]
-    },
-    {
-        "emojiChar": "💭",
-        "aliases": ["thought_balloon"],
-        "emoji": "\uD83D\uDCAD",
-        "description": "thought balloon",
-        "tags": [
-            "smileys_&_emotion",
-            "emotion"
-        ]
-    },
-    {
-        "emojiChar": "💤",
-        "aliases": ["ZZZ"],
-        "emoji": "\uD83D\uDCA4",
-        "description": "ZZZ",
-        "tags": [
-            "smileys_&_emotion",
-            "emotion"
-        ]
-    },
-    {
-        "emojiChar": "👋",
-        "aliases": ["waving_hand"],
-        "emoji": "\uD83D\uDC4B",
-        "description": "waving hand",
-        "tags": [
-            "people_&_body",
-            "hand-fingers-open"
-        ]
-    },
-    {
-        "emojiChar": "🤚",
-        "aliases": ["raised_back_of_hand"],
-        "emoji": "\uD83E\uDD1A",
-        "description": "raised back of hand",
-        "tags": [
-            "people_&_body",
-            "hand-fingers-open"
-        ]
-    },
-    {
-        "emojiChar": "🖐",
-        "aliases": ["hand_with_fingers_splayed"],
-        "emoji": "\uD83D\uDD90",
-        "description": "hand with fingers splayed",
-        "tags": [
-            "people_&_body",
-            "hand-fingers-open"
-        ]
-    },
-    {
-        "emojiChar": "✋",
-        "aliases": ["raised_hand"],
-        "emoji": "\u270B",
-        "description": "raised hand",
-        "tags": [
-            "people_&_body",
-            "hand-fingers-open"
-        ]
-    },
-    {
-        "emojiChar": "🖖",
-        "aliases": ["vulcan_salute"],
-        "emoji": "\uD83D\uDD96",
-        "description": "vulcan salute",
-        "tags": [
-            "people_&_body",
-            "hand-fingers-open"
-        ]
-    },
-    {
-        "emojiChar": "🫱",
-        "aliases": ["rightwards_hand"],
-        "emoji": "\uD83E\uDEF1",
-        "description": "rightwards hand",
-        "tags": [
-            "people_&_body",
-            "hand-fingers-open"
-        ]
-    },
-    {
-        "emojiChar": "🫲",
-        "aliases": ["leftwards_hand"],
-        "emoji": "\uD83E\uDEF2",
-        "description": "leftwards hand",
-        "tags": [
-            "people_&_body",
-            "hand-fingers-open"
-        ]
-    },
-    {
-        "emojiChar": "🫳",
-        "aliases": ["palm_down_hand"],
-        "emoji": "\uD83E\uDEF3",
-        "description": "palm down hand",
-        "tags": [
-            "people_&_body",
-            "hand-fingers-open"
-        ]
-    },
-    {
-        "emojiChar": "🫴",
-        "aliases": ["palm_up_hand"],
-        "emoji": "\uD83E\uDEF4",
-        "description": "palm up hand",
-        "tags": [
-            "people_&_body",
-            "hand-fingers-open"
         ]
     },
     {
@@ -1817,296 +1507,6 @@
         "tags": [
             "people_&_body",
             "hand-fingers-open"
-        ]
-    },
-    {
-        "emojiChar": "👌",
-        "aliases": ["OK_hand"],
-        "emoji": "\uD83D\uDC4C",
-        "description": "OK hand",
-        "tags": [
-            "people_&_body",
-            "hand-fingers-partial"
-        ]
-    },
-    {
-        "emojiChar": "🤌",
-        "aliases": ["pinched_fingers"],
-        "emoji": "\uD83E\uDD0C",
-        "description": "pinched fingers",
-        "tags": [
-            "people_&_body",
-            "hand-fingers-partial"
-        ]
-    },
-    {
-        "emojiChar": "🤏",
-        "aliases": ["pinching_hand"],
-        "emoji": "\uD83E\uDD0F",
-        "description": "pinching hand",
-        "tags": [
-            "people_&_body",
-            "hand-fingers-partial"
-        ]
-    },
-    {
-        "emojiChar": "✌",
-        "aliases": ["victory_hand"],
-        "emoji": "\u270C",
-        "description": "victory hand",
-        "tags": [
-            "people_&_body",
-            "hand-fingers-partial"
-        ]
-    },
-    {
-        "emojiChar": "🤞",
-        "aliases": ["crossed_fingers"],
-        "emoji": "\uD83E\uDD1E",
-        "description": "crossed fingers",
-        "tags": [
-            "people_&_body",
-            "hand-fingers-partial"
-        ]
-    },
-    {
-        "emojiChar": "🫰",
-        "aliases": ["hand_with_index_finger_and_thumb_crossed"],
-        "emoji": "\uD83E\uDEF0",
-        "description": "hand with index finger and thumb crossed",
-        "tags": [
-            "people_&_body",
-            "hand-fingers-partial"
-        ]
-    },
-    {
-        "emojiChar": "🤟",
-        "aliases": ["love-you_gesture"],
-        "emoji": "\uD83E\uDD1F",
-        "description": "love-you gesture",
-        "tags": [
-            "people_&_body",
-            "hand-fingers-partial"
-        ]
-    },
-    {
-        "emojiChar": "🤘",
-        "aliases": ["sign_of_the_horns"],
-        "emoji": "\uD83E\uDD18",
-        "description": "sign of the horns",
-        "tags": [
-            "people_&_body",
-            "hand-fingers-partial"
-        ]
-    },
-    {
-        "emojiChar": "🤙",
-        "aliases": ["call_me_hand"],
-        "emoji": "\uD83E\uDD19",
-        "description": "call me hand",
-        "tags": [
-            "people_&_body",
-            "hand-fingers-partial"
-        ]
-    },
-    {
-        "emojiChar": "👈",
-        "aliases": ["backhand_index_pointing_left"],
-        "emoji": "\uD83D\uDC48",
-        "description": "backhand index pointing left",
-        "tags": [
-            "people_&_body",
-            "hand-single-finger"
-        ]
-    },
-    {
-        "emojiChar": "👉",
-        "aliases": ["backhand_index_pointing_right"],
-        "emoji": "\uD83D\uDC49",
-        "description": "backhand index pointing right",
-        "tags": [
-            "people_&_body",
-            "hand-single-finger"
-        ]
-    },
-    {
-        "emojiChar": "👆",
-        "aliases": ["backhand_index_pointing_up"],
-        "emoji": "\uD83D\uDC46",
-        "description": "backhand index pointing up",
-        "tags": [
-            "people_&_body",
-            "hand-single-finger"
-        ]
-    },
-    {
-        "emojiChar": "🖕",
-        "aliases": ["middle_finger"],
-        "emoji": "\uD83D\uDD95",
-        "description": "middle finger",
-        "tags": [
-            "people_&_body",
-            "hand-single-finger"
-        ]
-    },
-    {
-        "emojiChar": "👇",
-        "aliases": ["backhand_index_pointing_down"],
-        "emoji": "\uD83D\uDC47",
-        "description": "backhand index pointing down",
-        "tags": [
-            "people_&_body",
-            "hand-single-finger"
-        ]
-    },
-    {
-        "emojiChar": "☝",
-        "aliases": ["index_pointing_up"],
-        "emoji": "\u261D",
-        "description": "index pointing up",
-        "tags": [
-            "people_&_body",
-            "hand-single-finger"
-        ]
-    },
-    {
-        "emojiChar": "🫵",
-        "aliases": ["index_pointing_at_the_viewer"],
-        "emoji": "\uD83E\uDEF5",
-        "description": "index pointing at the viewer",
-        "tags": [
-            "people_&_body",
-            "hand-single-finger"
-        ]
-    },
-    {
-        "emojiChar": "👍",
-        "aliases": ["thumbs_up"],
-        "emoji": "\uD83D\uDC4D",
-        "description": "thumbs up",
-        "tags": [
-            "people_&_body",
-            "hand-fingers-closed"
-        ]
-    },
-    {
-        "emojiChar": "👎",
-        "aliases": ["thumbs_down"],
-        "emoji": "\uD83D\uDC4E",
-        "description": "thumbs down",
-        "tags": [
-            "people_&_body",
-            "hand-fingers-closed"
-        ]
-    },
-    {
-        "emojiChar": "✊",
-        "aliases": ["raised_fist"],
-        "emoji": "\u270A",
-        "description": "raised fist",
-        "tags": [
-            "people_&_body",
-            "hand-fingers-closed"
-        ]
-    },
-    {
-        "emojiChar": "👊",
-        "aliases": ["oncoming_fist"],
-        "emoji": "\uD83D\uDC4A",
-        "description": "oncoming fist",
-        "tags": [
-            "people_&_body",
-            "hand-fingers-closed"
-        ]
-    },
-    {
-        "emojiChar": "🤛",
-        "aliases": ["left-facing_fist"],
-        "emoji": "\uD83E\uDD1B",
-        "description": "left-facing fist",
-        "tags": [
-            "people_&_body",
-            "hand-fingers-closed"
-        ]
-    },
-    {
-        "emojiChar": "🤜",
-        "aliases": ["right-facing_fist"],
-        "emoji": "\uD83E\uDD1C",
-        "description": "right-facing fist",
-        "tags": [
-            "people_&_body",
-            "hand-fingers-closed"
-        ]
-    },
-    {
-        "emojiChar": "👏",
-        "aliases": ["clapping_hands"],
-        "emoji": "\uD83D\uDC4F",
-        "description": "clapping hands",
-        "tags": [
-            "people_&_body",
-            "hands"
-        ]
-    },
-    {
-        "emojiChar": "🙌",
-        "aliases": ["raising_hands"],
-        "emoji": "\uD83D\uDE4C",
-        "description": "raising hands",
-        "tags": [
-            "people_&_body",
-            "hands"
-        ]
-    },
-    {
-        "emojiChar": "🫶",
-        "aliases": ["heart_hands"],
-        "emoji": "\uD83E\uDEF6",
-        "description": "heart hands",
-        "tags": [
-            "people_&_body",
-            "hands"
-        ]
-    },
-    {
-        "emojiChar": "👐",
-        "aliases": ["open_hands"],
-        "emoji": "\uD83D\uDC50",
-        "description": "open hands",
-        "tags": [
-            "people_&_body",
-            "hands"
-        ]
-    },
-    {
-        "emojiChar": "🤲",
-        "aliases": ["palms_up_together"],
-        "emoji": "\uD83E\uDD32",
-        "description": "palms up together",
-        "tags": [
-            "people_&_body",
-            "hands"
-        ]
-    },
-    {
-        "emojiChar": "🤝",
-        "aliases": ["handshake"],
-        "emoji": "\uD83E\uDD1D",
-        "description": "handshake",
-        "tags": [
-            "people_&_body",
-            "hands"
-        ]
-    },
-    {
-        "emojiChar": "🙏",
-        "aliases": ["folded_hands"],
-        "emoji": "\uD83D\uDE4F",
-        "description": "folded hands",
-        "tags": [
-            "people_&_body",
-            "hands"
         ]
     },
     {

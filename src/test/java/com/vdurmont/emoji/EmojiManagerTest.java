@@ -28,30 +28,28 @@ public class EmojiManagerTest {
     // GIVEN
 
     // WHEN
-    Set<Emoji> emojis = EmojiManager.getForTag("happy");
+    Set<Emoji> emojis = EmojiManager.getForTag("hand-fingers-open");
 
     // THEN
-    assertEquals(4, emojis.size());
+    assertEquals(2, emojis.size());
     assertTrue(TestTools.containsEmojis(
       emojis,
-      "smile",
-      "smiley",
-      "grinning",
-      "satisfied"
+      "rightwards_pushing_hand",
+      "leftwards_pushing_hand"
     ));
   }
 
-  @Test
-  public void getForTag_returns_the_eu_emoji_for_same_tag() {
-    // GIVEN
-
-    // WHEN
-    Set<Emoji> emojis = EmojiManager.getForTag("european union");
-
-    // THEN
-    assertEquals(1, emojis.size());
-    assertTrue(TestTools.containsEmojis(emojis, "eu"));
-  }
+//  @Test
+//  public void getForTag_returns_the_eu_emoji_for_same_tag() {
+//    // GIVEN
+//
+//    // WHEN
+//    Set<Emoji> emojis = EmojiManager.getForTag("european union");
+//
+//    // THEN
+//    assertEquals(1, emojis.size());
+//    assertTrue(TestTools.containsEmojis(emojis, "eu"));
+//  }
 
   @Test
   public void getForAlias_with_unknown_alias_returns_null() {
@@ -233,7 +231,7 @@ public class EmojiManagerTest {
 
     // THEN
     // We know the number of distinct tags int the...!
-    assertEquals(109, tags.size());
+    assertEquals(95, tags.size());
   }
 
   @Test

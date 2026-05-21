@@ -89,14 +89,11 @@ public class EmojiTrie {
     }
 
     Node tree = root;
-    for (int i = start; i < sequence.length; i++) {
-      if (!tree.hasChild(sequence[i])) {
-        return tree.isEndOfEmoji()? i: -1;
-      }
-      tree = tree.getChild(sequence[i]);
+    for (; start < sequence.length && tree.hasChild(sequence[start]); start++) {
+      tree = tree.getChild(sequence[start]);
     }
 
-    return -1;
+    return tree.isEndOfEmoji()? start: -1;
   }
 
 
